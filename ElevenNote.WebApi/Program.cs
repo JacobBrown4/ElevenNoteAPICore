@@ -35,4 +35,4 @@ app.MapControllers();
 app.Run();
 
 
-//https://elevenfifty.instructure.com/courses/933/pages/en-api-9-dot-06-register-user-postman-request?module_item_id=100044
+//https://elevenfifty.instructure.com/courses/933/pages/en-api-11-dot-00-userdetail-model?module_item_id=100050
